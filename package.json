@@ -1,0 +1,22 @@
+{
+  "name": "xml_php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnescameron/xml_php.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnescameron/xml_php/issues"
+  },
+  "homepage": "https://github.com/agnescameron/xml_php#readme",
+  "dependencies": {
+    "fast-xml-parser": "^3.17.3"
+  }
+}
